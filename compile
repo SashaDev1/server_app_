@@ -1,0 +1,2 @@
+#! /bin/sh
+gcc src/test_server.c -o ./build/a.out
